@@ -4,7 +4,7 @@ Welcome to the Card Guessing Game in C! Test your luck against the computer in t
 
 ## How to Play 🎮
 
-1. **Setup:** Compile the `card_guessing_game.c` file using your preferred C compiler.
+1. **Setup:** Compile the `Guess_The_Cards.c` file using your preferred C compiler.
 2. **Start:** Run the compiled executable.
 3. **Gameplay:** 
    - Each round, guess the sum of two randomly drawn cards.
@@ -22,14 +22,14 @@ Welcome to the Card Guessing Game in C! Test your luck against the computer in t
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your_username/card-guessing-game-c.git
+   git clone https://github.com/Mr-Hassan-Sardar/Guess-the-Cards
 2. Compile the source code:
    ```bash
-   gcc card_guessing_game.c -o card_guessing_game
+   gcc Guess_The_Cards.c -o Guess_The_Cards
 
 3. Run the executable:
     ```bash
-    ./card_guessing_game
+    ./Guess_The_Cards
 ## Contribution 🤝
 - Contributions are welcome! Feel free to open issues or submit pull requests to improve the game.
 
